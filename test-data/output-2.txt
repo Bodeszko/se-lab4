@@ -1,5 +1,5 @@
 SUCCESS #gt4500
 SUCCESS #firePrimary
 SUCCESS #fireSecondary
-FAIL #firePrimary
 SUCCESS #fireSecondary
+FAIL #firePrimary
